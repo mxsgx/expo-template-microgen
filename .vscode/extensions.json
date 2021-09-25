@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "GraphQL.vscode-graphql",
+    "IronGeek.vscode-env",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
