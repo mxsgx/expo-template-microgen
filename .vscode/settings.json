@@ -1,4 +1,7 @@
 {
+  "files.associations": {
+    "*.env.{development,production}": "env"
+  },
   "files.eol": "\n",
   "editor.tabSize": 2
 }
