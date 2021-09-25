@@ -1,3 +1,8 @@
 {
-  "extends": "universe/native"
+  "extends": "universe/native",
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
+  }
 }

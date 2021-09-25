@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@api/*": ["./src/api/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@components/*": ["./src/components/*"],
+      "@config/*": ["./src/config/*"],
+      "@context/*": ["./src/context/*"],
+      "@routes/*": ["./src/routes/*"],
+      "@screens/*": ["./src/screens/*"],
+      "@utils/*": ["./src/utils/*"],
+      "*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules", "babel.config.js"]
+}
