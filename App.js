@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Provider from '@core/Provider';
+import { Provider } from '@core';
 
 export default function App() {
   return <Provider />;
