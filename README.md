@@ -8,3 +8,4 @@ Template project Expo untuk aplikasi mobile di mana _backend_ menggunakan [Micro
 - React Native
 - Apollo Client
 - React Native Paper
+- React Navigation
